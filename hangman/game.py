@@ -5,6 +5,7 @@ LIST_OF_WORDS = []
 
 
 def _get_random_word(list_of_words):
+    #do nothing, just trying to make a push request
     pass
 
 
